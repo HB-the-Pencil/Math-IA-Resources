@@ -1,2 +1,2 @@
 # Math-IA-Generator
-A repo to store my Python simulation scripts for my Math IA.
+These Python scripts simulate taking a test and guessing randomly on every question, choosing answers in a sequential order, or choosing the same answer every time.
